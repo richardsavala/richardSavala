@@ -1,4 +1,4 @@
-### Richard Savala 👋
+### Richard Savala 😄
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=richardsavala&theme=dark)](https://git.io/streak-stats)
 
