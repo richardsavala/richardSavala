@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=richardsavala&theme=dark)](https://git.io/streak-stats)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Digital+Craftsman;Seeking+Employment+Opportunies)](https://git.io/typing-svg)
+
 <!--
 **richardsavala/richardSavala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
